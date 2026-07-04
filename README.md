@@ -47,43 +47,72 @@ Currently interested in remote opportunities around **AI x Web3**, **creator eco
 
 <!-- Tools -->
 <div align="center">
-  <h2>Tools & Exposure</h2>
+  <h2>Creation & Product Toolkit</h2>
 
-  <h4>AI, Product & Content</h4>
+  <h4>AI Workflow</h4>
   <p>
-    <img src="https://img.shields.io/badge/AI%20Coding-0f172a?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Codex-0f172a?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Prompt%20Design-0f172a?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Product%20Demo-0f172a?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Community%20Content-0f172a?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AI%20Prototyping-0f172a?style=for-the-badge" />
   </p>
 
-  <h4>Tech Exposure</h4>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,py,git,github,figma,blender" alt="Tools and tech exposure" />
+  <h4>Content & Visual Creation</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Unreal%20Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/CapCut-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blender-111827?style=for-the-badge&logo=blender&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
+
+  <h4>Product & Community</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Product%20Demo-1f2937?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/User%20Journey-1f2937?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Community%20Content-1f2937?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 </div>
 
 <!-- Projects Section -->
 <div align="center">
   <h2>Featured Projects</h2>
 
-  <a href="https://github.com/Beat1ngHeart/digital-ownership-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beat1ngHeart&repo=digital-ownership-platform&theme=tokyonight&hide_border=true" alt="Digital Ownership Platform" />
-  </a>
-  <a href="https://github.com/Beat1ngHeart/ai-video-agent-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beat1ngHeart&repo=ai-video-agent-demo&theme=tokyonight&hide_border=true" alt="AI Video Agent Demo" />
-  </a>
-  <a href="https://github.com/Beat1ngHeart/prompt-integrator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beat1ngHeart&repo=prompt-integrator&theme=tokyonight&hide_border=true" alt="Prompt Integrator" />
-  </a>
-
-  <p>
-    <b>Digital Ownership Platform</b> - Web3 product demo for creator content, NFT metadata, IPFS storage, and onchain ownership workflows.
-  </p>
-  <p>
-    <b>AI Video Agent Demo</b> - AI creator tool prototype for scripts, storyboards, digital human configuration, and batch content production.
-  </p>
-  <p>
-    <b>Prompt Integrator</b> - Structured prompt generator with mind map visualization for clearer AI workflows and product thinking.
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>Digital Ownership Platform</h3>
+        <p>Web3 product demo for creator content, NFT metadata, IPFS storage, and onchain ownership workflows.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Web3-111827?style=flat-square" />
+          <img src="https://img.shields.io/badge/IPFS-111827?style=flat-square" />
+          <img src="https://img.shields.io/badge/Creator%20Tools-111827?style=flat-square" />
+        </p>
+        <a href="https://github.com/Beat1ngHeart/digital-ownership-platform"><b>View Repository</b></a>
+      </td>
+      <td align="center" width="33%">
+        <h3>AI Video Agent Demo</h3>
+        <p>AI creator tool prototype for scripts, storyboards, digital human configuration, and batch content production.</p>
+        <p>
+          <img src="https://img.shields.io/badge/AI%20Video-111827?style=flat-square" />
+          <img src="https://img.shields.io/badge/Automation-111827?style=flat-square" />
+          <img src="https://img.shields.io/badge/Creator%20Workflow-111827?style=flat-square" />
+        </p>
+        <a href="https://github.com/Beat1ngHeart/ai-video-agent-demo"><b>View Repository</b></a>
+      </td>
+      <td align="center" width="33%">
+        <h3>Prompt Integrator</h3>
+        <p>Structured prompt generator with mind map visualization for clearer AI workflows and product thinking.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Prompt%20Workflow-111827?style=flat-square" />
+          <img src="https://img.shields.io/badge/Mind%20Map-111827?style=flat-square" />
+          <img src="https://img.shields.io/badge/Product%20Thinking-111827?style=flat-square" />
+        </p>
+        <a href="https://github.com/Beat1ngHeart/prompt-integrator"><b>View Repository</b></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Looking For -->
@@ -103,13 +132,18 @@ Currently interested in remote opportunities around **AI x Web3**, **creator eco
   [![Email](https://img.shields.io/badge/Email-1445685705%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1445685705@qq.com)
 </div>
 
-<!-- GitHub Stats -->
+<!-- Profile Snapshot -->
 <div align="center">
-  <h2>GitHub Stats</h2>
+  <h2>Profile Snapshot</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Beat1ngHeart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beat1ngHeart&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beat1ngHeart&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <p>
+    <img src="https://img.shields.io/badge/Name-Ricky%20Vida-0891b2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-AI%20x%20Web3-7c3aed?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Mode-Remote%20Friendly-10b981?style=for-the-badge" />
+  </p>
+  <p>
+    Building small, useful demos around AI tools, Web3 product ideas, creator workflows, and community growth.
+  </p>
 </div>
 
 <!-- Footer -->
